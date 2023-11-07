@@ -258,4 +258,5 @@ Yolov7-semantic & YOLOv7-panoptic & YOLOv7-caption
 
 </details>
 #   m a s k _ d e t e c t _ y o l o 7  
+ #   m a s k _ d e t e c t _ y o l o 7  
  
